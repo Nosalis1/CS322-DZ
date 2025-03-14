@@ -1,0 +1,16 @@
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\bin\Debug\net8.0-windows\DZ02.exe
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\bin\Debug\net8.0-windows\DZ02.deps.json
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\bin\Debug\net8.0-windows\DZ02.runtimeconfig.json
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\bin\Debug\net8.0-windows\DZ02.dll
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\bin\Debug\net8.0-windows\DZ02.pdb
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\DZ02.Form1.resources
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\DZ02.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\DZ02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\DZ02.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\DZ02.AssemblyInfo.cs
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\DZ02.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\DZ02.dll
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\refint\DZ02.dll
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\DZ02.pdb
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\DZ02.genruntimeconfig.cache
+C:\Users\aleks\Desktop\cs322Domaci\ConsoleApp1\DZ02\obj\Debug\net8.0-windows\ref\DZ02.dll
